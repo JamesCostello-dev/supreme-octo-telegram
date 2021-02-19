@@ -28,12 +28,13 @@ describe('emoji is visible', () => {
   })
 })
 
+
 describe('links are visible', () => {
   it('should insert a link', () => {
     // arrange
-    const { getTestById } = render(<Nav />);
+    const { getByTestId } = render(<Nav />);
     // assert
-    expect(getTestById('link')).toHaveTextContent('Oh Snap!');
-    expect(getTestById('about')).toHaveTextContent('About me');
-  })
+    expect(getByTestId('link')).toHaveTextContent('Oh Snap!');
+    expect(getByTestId('about')).toHaveTextContent('About me');
+  });
 })
