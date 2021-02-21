@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import About from './components/About'
 import Nav from './components/Nav'
 import Gallery from './components/Gallery'
+import './App.css';
 
 function App() {
   const [categories] = useState([
