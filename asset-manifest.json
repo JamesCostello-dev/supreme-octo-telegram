@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/JamesCostello-dev/supreme-octo-telegram/static/css/main.c557ff57.chunk.css",
+    "main.js": "/JamesCostello-dev/supreme-octo-telegram/static/js/main.25c95faa.chunk.js",
+    "main.js.map": "/JamesCostello-dev/supreme-octo-telegram/static/js/main.25c95faa.chunk.js.map",
+    "runtime-main.js": "/JamesCostello-dev/supreme-octo-telegram/static/js/runtime-main.a1d27120.js",
+    "runtime-main.js.map": "/JamesCostello-dev/supreme-octo-telegram/static/js/runtime-main.a1d27120.js.map",
+    "static/js/2.22dd1600.chunk.js": "/JamesCostello-dev/supreme-octo-telegram/static/js/2.22dd1600.chunk.js",
+    "static/js/2.22dd1600.chunk.js.map": "/JamesCostello-dev/supreme-octo-telegram/static/js/2.22dd1600.chunk.js.map",
+    "static/js/3.3791e1b4.chunk.js": "/JamesCostello-dev/supreme-octo-telegram/static/js/3.3791e1b4.chunk.js",
+    "static/js/3.3791e1b4.chunk.js.map": "/JamesCostello-dev/supreme-octo-telegram/static/js/3.3791e1b4.chunk.js.map",
+    "index.html": "/JamesCostello-dev/supreme-octo-telegram/index.html",
+    "static/css/main.c557ff57.chunk.css.map": "/JamesCostello-dev/supreme-octo-telegram/static/css/main.c557ff57.chunk.css.map",
+    "static/js/2.22dd1600.chunk.js.LICENSE.txt": "/JamesCostello-dev/supreme-octo-telegram/static/js/2.22dd1600.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/JamesCostello-dev/supreme-octo-telegram/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/JamesCostello-dev/supreme-octo-telegram/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/JamesCostello-dev/supreme-octo-telegram/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/JamesCostello-dev/supreme-octo-telegram/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/JamesCostello-dev/supreme-octo-telegram/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/JamesCostello-dev/supreme-octo-telegram/static/media/cover-image.533ae8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d27120.js",
+    "static/js/2.22dd1600.chunk.js",
+    "static/css/main.c557ff57.chunk.css",
+    "static/js/main.25c95faa.chunk.js"
+  ]
+}
